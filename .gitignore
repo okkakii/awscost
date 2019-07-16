@@ -1,0 +1,8 @@
+vendor/
+node_modules/
+build/
+temp/
+.idea/
+.ds_store
+bundle.js
+*.log
